@@ -1,4 +1,3 @@
-
 public class hello
 {
   public static void main(String [] args)
@@ -9,6 +8,6 @@ public class hello
   
   public static boolean cal()
   {
-    return true ;
+    System.out.println("but") ;
   }
 }
